@@ -1,7 +1,7 @@
-layout: stacked
+layout: sidebar
 # layout options: sidebar / stacked
-style: dark
-# or light
+style: light
+# or dark
 
 plugins:
   - jekyll-octicons

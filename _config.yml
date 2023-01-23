@@ -1,5 +1,7 @@
-layout: sidebar
-style: light
+layout: stacked
+# layout options: sidebar / stacked
+style: dark
+# or light
 
 plugins:
   - jekyll-octicons
@@ -26,14 +28,14 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+     - personal-website
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: CurtisB95
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: CurtisBoland95
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
@@ -43,7 +45,7 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: https://curtisb.dev
   # youtube: your_username
 
 topics:

@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Jekyll!"
-published: false
+title: "My first post!"
+published: true
 ---
 
 **Hello world**, this is my first Jekyll blog post.
@@ -69,7 +69,7 @@ body {
 ## Yaml
 ```yaml
 ---
-one: Mark McGwire
-two: Sammy Sosa
-three: Ken Griffey
+one: Cpt. Jack Sparrow
+two: Dread Pirate Roberts
+three: Ken Kaniff
 ```
